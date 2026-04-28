@@ -45,7 +45,7 @@ function App() {
 
   return (
     <>
-      <h1>Watch List Project 2026</h1>
+      <h1>Watch List Project 2026!</h1>
       <Navbar />
       <WatchListContext value={{ watchList, addMovie, deleteMovie, toggleWatched }}>
         <Routes>
